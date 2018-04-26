@@ -1,4 +1,4 @@
-package quickgames.socket.client;
+package quickgames.socket.message;
 
 public final class Version {
 
@@ -8,8 +8,8 @@ public final class Version {
     }
 
     static {
-        _version = "0.0.0";
-        _build = 1;
+        _version = "0.0.1";
+        _build = 2;
         _date = "26.04.2018";
     }
 

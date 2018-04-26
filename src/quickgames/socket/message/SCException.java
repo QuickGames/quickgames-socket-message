@@ -1,4 +1,4 @@
-package quickgames.socket.client;
+package quickgames.socket.message;
 
 public class SCException extends Exception{
 
